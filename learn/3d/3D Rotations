@@ -1,0 +1,13 @@
+3D Rotations
+
+RZ = 	cos(º)		-sin(º)		0
+		sin(º)		cos(º)		0
+		0			0			1
+
+RX = 	1			0			0
+		0			cos(º)		-sin(º)
+		0			sin(º)		cos(º)
+
+RY =	cos(º)		0			sin(º)
+		0			1			0
+		-sin(º)		0			cos(º)
